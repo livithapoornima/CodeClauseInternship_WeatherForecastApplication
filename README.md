@@ -21,9 +21,6 @@ The **Weather Forecast Application** is a responsive and interactive web-based a
 - Error handling for invalid inputs and network issues
 - Simple and clean user interface
 
-## Screenshots
-
-(Add screenshots of your project here if you have any)
 
 ## Getting Started
 
